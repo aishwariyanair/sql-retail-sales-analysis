@@ -275,12 +275,16 @@ Peak Sales Times: Afternoon (12:00 PM - 5:00 PM) had the highest sales volume.
 Seasonal Trends: November had the best sales, particularly in Clothing.
 
 
+
+
 📈 Insights & Conclusions
 Targeted Marketing: High-value customers and peak sales times should be prioritized for promotions.
 
 Seasonal Opportunities: Focus on high-demand months like November for special offers.
 
 Improved Data Quality: Cleaning NULL values ensured accurate analysis.
+
+
 
 
 ✍️ Author
