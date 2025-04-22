@@ -168,7 +168,7 @@ Select category,
  ### 15. Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category
 ```sql
 Select category,
-		gender,
+        gender,
         count(*) AS total_trans
 from retail_sales
 group by category,gender
